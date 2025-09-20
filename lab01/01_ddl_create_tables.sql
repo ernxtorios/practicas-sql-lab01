@@ -5,7 +5,6 @@ CREATE TABLE empdetails (
 	emp_name varchar(15),
 	dept_id int)
 
-
 CREATE TABLE empsales (
 	emp_id int,
 	client_id int,
