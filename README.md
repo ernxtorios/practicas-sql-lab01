@@ -36,7 +36,7 @@ Escribe una consulta SQL para encontrar el client_id y el emp_id del mejor clien
 | 2       | 104         | 203             |
 
 ## Solución
-Archivos de la solución:
+Archivos de la solución usando una base de datos en __SQL Server__:
 * 01_ddl_create_tables.sql
 
   Crear las tablas empdetails y empsales
