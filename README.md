@@ -33,3 +33,12 @@ Escribe una consulta SQL para encontrar el client_id y el emp_id del mejor clien
 |---------|-------------|-----------------|
 | 1       | 101         | 201             |
 | 2       | 104         | 203             |
+
+## Solución
+Archivos de la solución:
+* 01_ddl_create_tables.sql
+  Crear las tablas empdetails y empsales
+* 02_dml_inserts.sql
+  Insertar los registros del ejemplo
+* 03_dql_queries.sql
+  Solución
