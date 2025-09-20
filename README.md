@@ -8,6 +8,7 @@ Una empresa organiza un evento de felicitación para animar a sus empleados y cl
   - El mejor cliente: el que ha aportado mayores ventas a ese departamento
 
 Se proporcionan las siguientes tablas:
+
  • empdetails 
    |  emp_id  | emp_name  | dept_id |
    |----------|-----------|---------|
@@ -37,8 +38,13 @@ Escribe una consulta SQL para encontrar el client_id y el emp_id del mejor clien
 ## Solución
 Archivos de la solución:
 * 01_ddl_create_tables.sql
+
   Crear las tablas empdetails y empsales
+
 * 02_dml_inserts.sql
+
   Insertar los registros del ejemplo
+
 * 03_dql_queries.sql
+
   Solución
