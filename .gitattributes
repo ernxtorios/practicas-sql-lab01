@@ -1,0 +1,2 @@
+# Fix syntax highlighting for devcontainer files
+lab01/*.sql linguist-language=SQL
